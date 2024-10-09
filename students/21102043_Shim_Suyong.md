@@ -21,12 +21,12 @@
 <section id="pages">
 <h2>Number of Pages</h2>
 
-360
+page : 360
 
 <section id="link">
 <h2>Link to the book</h2>
 
-<a href="https://www.yes24.com/Product/Goods/27628413">Link</a>
+This is the <a href="https://www.yes24.com/Product/Goods/27628413">Link</a>
 
 <section id="summary">
 <h2>Summary</h2>
