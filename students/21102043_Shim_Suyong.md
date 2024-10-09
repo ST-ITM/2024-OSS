@@ -1,4 +1,4 @@
-<h2>Part 2</h2>
+<h1>Part 2</h1>
 
 <table>
   <tr>
@@ -13,28 +13,28 @@
 <br>
 <br>
 <section id="title">
-## Title
+<h3>Title</h3>
 
 ![alt text](image.png)
 리버싱 입문(2016)
 
 <section id="pages">
-## Number of Pages
+<h3>Number of Pages</h3>
 
 360
 
 <section id="link">
-## Link to the book
+<h3>Link to the book</h3>
 
 <a href="https://www.yes24.com/Product/Goods/27628413">Link</a>
 
 <section id="summary">
-## Summary
+<h3>Summary</h3>
 
 This book contains a lot of background knowledge to convey the various knowledge needed for reversing.<br> It introduces the tools needed for reversing along with a description of computer structure and memory.<br> In addition, by hacking various problems and real games, could learn the reversing deeply.
 
 <section id="opinion">
-## Opinion
+<h3>Opinion</h3>
 
 Among the books I read recently, the only book I remember is the book related to academics, but I read them with interested because I was able to set my career path through this book.
 
