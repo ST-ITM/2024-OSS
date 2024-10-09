@@ -13,7 +13,7 @@
 <br>
 <br>
 <section id="title">
-<h3 style="color: green;">Title</h3>
+<h2 style="color: red;">Title</h2>
 
 ![alt text](image.png)
 리버싱 입문(2016)
