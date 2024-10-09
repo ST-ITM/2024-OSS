@@ -21,7 +21,6 @@
 
 # Link to the book
 
-https://www.yes24.com/Product/Goods/27628413
 <a href="https://www.yes24.com/Product/Goods/27628413">Link</a>
 
 # Summary
