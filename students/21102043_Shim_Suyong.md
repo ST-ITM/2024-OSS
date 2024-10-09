@@ -12,8 +12,8 @@
 
 # Title
 
-리버싱 입문(2016)
 ![alt text](image.png)
+리버싱 입문(2016)
 
 # Number of Pages
 
@@ -25,7 +25,7 @@
 
 # Summary
 
-This book contains a lot of background knowledge to convey the various knowledge needed for reversing. It introduces the tools needed for reversing along with a description of computer structure and memory. In addition, by hacking into various examples and real games, you learn the necessity of reversing.
+This book contains a lot of background knowledge to convey the various knowledge needed for reversing.<br> It introduces the tools needed for reversing along with a description of computer structure and memory.<br> In addition, by hacking into various examples and real games, you learn the necessity of reversing.
 
 # Opinion
 
