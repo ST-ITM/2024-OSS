@@ -1,15 +1,12 @@
 # Title
-Psych: The Story of the Human Mind, Paul Bloom (2023)
+The Cathedral and The Bazaar
 # Number of Pages
-464
+241
 # Link to the book
-https://www.goodreads.com/book/show/61238292-psych 
+http://www.catb.org/esr/writings/cathedral-bazaar/
 # Summary
-Psych: The Story of the Human Mind by Paul Bloom provides a comprehensive exploration of the field of psychology, tracing the evolution of how humans have come to understand the mind. Bloom delves into key theories and figures, such as Freud’s psychoanalysis, Skinner’s behaviorism, and modern developments in cognitive science and neuroscience. The book balances academic insight with accessible storytelling, offering readers a deep yet approachable look into how our understanding of the human mind has developed over time.
+This book introduces two main ways of development. It does not simply explain the difference between the two models but shows the advantages and characteristics of the open-source model through the author's own experience and points out important parts in the process of carrying out the project.
 # Opinion
-It was a very interesting read that helped me understand the evolution of psychology. 
-Learning about Freud's psychoanalysis, Skinner's behaviorism, 
-and Piaget's cognitivism gave me perspective on the current state of understanding the human mind. 
-This also helped me better understand my own mind. 
+It was a very meaningful read that helped me to understand the concept of open source. It was explained based on the author's actual experience, so it was immersive and easier to understand. 
 
-While a bit academic, it was a very engaging and insightful read.
+
