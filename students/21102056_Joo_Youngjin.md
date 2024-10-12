@@ -2,6 +2,6 @@ Title of the article <North Korea, "South Korean UAVs Invade Over Pyongyang...Se
 
 Number of Pages of article: 1(internet article)
 
-Summarize: North Korea claimed on Wednesday that South Korea had infiltrated Pyongyang and sprayed North Korean leaflets, calling it an "unforgivable grave provocation." At the same time, it warned that if the Republic of Korea commits such provocations again, they will be immediately taken into action rather than such a warning. However, the Joint Chiefs of Staff refuted North Korea's claim that the South Korean military had not sent drones to the North.
+Summarize: North Korea accused South Korea of infiltrating Pyongyang and distributing anti-North Korean leaflets, calling it a serious provocation. It warned of immediate action if similar incidents occur again. However, South Korea's Joint Chiefs of Staff denied the claim, stating that no drones were sent to the North.
 
 Opinion: In my opinion,I don't think the South Korean military made the same provocation as sending drones, but I think North Korea has put up a psychological battle for another provocation.
